@@ -1,0 +1,6 @@
+Na pasta Models estão os arquivos que vão modelar os dados recebidos e que serão enviados, verificar se eles 
+estao no formato correto ou se tem o tipo correto para ir ao banco de dados, e dita quais dados tem q ser recebidos
+
+os controllers são os arquivos que realizam o controle das aplicação, pegam os dados, tratam eles, modificam informações, pegam dados do banco
+enviam dados para o banco
+
